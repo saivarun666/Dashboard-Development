@@ -15,5 +15,3 @@ To carry out this task, I referred to YouTube tutorials for practical guidance o
 
 The dashboard I developed included a dropdown filter for selecting product categories, a time series line chart for tracking sales trends, a bar chart to show sales distribution by region, and a pie chart to visualize profit distribution across categories. The interactivity ensured that whenever a user changed the dropdown selection, all visualizations updated dynamically.
 
-OUTPUT:
-Image Image Image
